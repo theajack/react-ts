@@ -1,0 +1,11 @@
+node_modules
+dist
+npm
+cnchar.min.js
+src_import_version
+!.vuepress
+docs
+vuepress/config.js
+**/*.vue
+**/*.html
+src/react-app-env.d.ts
